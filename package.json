@@ -1,0 +1,19 @@
+{
+  "name": "movie-comsume-api",
+  "version": "1.0.0",
+  "description": "Proyecto creado en curso de consumo API  REST con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacashira/movie-comsume-api.git"
+  },
+  "author": "@jacashira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacashira/movie-comsume-api/issues"
+  },
+  "homepage": "https://github.com/jacashira/movie-comsume-api#readme"
+}
